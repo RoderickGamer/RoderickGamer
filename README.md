@@ -51,15 +51,11 @@
 <!-- NFTs que holdeo -->
 <h2 align="center">Mis NFTs 🔒</h2>
 <p align="center">
-  <a href="Ratz Club #1452"><img src="https://su7owogz24np2lfghznk3kx6mvozoc5ilt5377sosdmfygvdohpq.arweave.net/lT7rONnXGv0spj5arar-ZV2XC6hc-7_-TpDYXBqjcd8?ext=png"></a>
-  <a href="N00b #2187"><img src="https://ppkkerzezm55fsduwodjs5o3n4njgwgkrcysk7qvw33iw7ebwuwa.arweave.net/e9SiRyTLO9LIdLOGmXXbbxqTWMqIsSV-Fbb2i3yBtSw?ext=png"></a>
-
-  <a href="N00b #4848"><img src="https://3tblzsckwf3khlsc4oyeryku5gkzqjx36qzyljnnnpaythekatxq.arweave.net/3MK8yEqxdqOuQuOwSOFU6ZWYJvv0M4WlrWvBiZyKBO8?ext=png" alt="N00b #4848"></a>
-  <a href="enlace-a-la-imagen-2"><img src="ruta-a-la-imagen-2" alt="Nombre del NFT 2"></a>
+  <a href="https://solscan.io/token/3c9DoSZJjNbstiKeDGw9fVLBssHb3YNysMW8mNXkUcCF"><img src="https://su7owogz24np2lfghznk3kx6mvozoc5ilt5377sosdmfygvdohpq.arweave.net/lT7rONnXGv0spj5arar-ZV2XC6hc-7_-TpDYXBqjcd8?ext=png" alt="Ratz Club #1452"></a>
   <a href="enlace-a-la-imagen-3"><img src="ruta-a-la-imagen-3" alt="Nombre del NFT 3"></a>
   <a href="enlace-a-la-imagen-4"><img src="ruta-a-la-imagen-4" alt="Nombre del NFT 4"></a>
   <a href="enlace-a-la-imagen-5"><img src="ruta-a-la-imagen-5" alt="Nombre del NFT 5"></a>
-</div>
+</p>
 
 <!-- NFTs que holdeo -->
 <h2 align="center">Mis NFTs 🔒</h2>
