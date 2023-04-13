@@ -52,9 +52,11 @@
 <h2 align="center">Mis NFTs 🔒</h2>
 <p align="center">
   <a href="https://solscan.io/token/3c9DoSZJjNbstiKeDGw9fVLBssHb3YNysMW8mNXkUcCF"><img src="https://su7owogz24np2lfghznk3kx6mvozoc5ilt5377sosdmfygvdohpq.arweave.net/lT7rONnXGv0spj5arar-ZV2XC6hc-7_-TpDYXBqjcd8?ext=png" alt="Ratz Club #1452"></a>
-  <a href="enlace-a-la-imagen-3"><img src="ruta-a-la-imagen-3" alt="Nombre del NFT 3"></a>
-  <a href="enlace-a-la-imagen-4"><img src="ruta-a-la-imagen-4" alt="Nombre del NFT 4"></a>
-  <a href="enlace-a-la-imagen-5"><img src="ruta-a-la-imagen-5" alt="Nombre del NFT 5"></a>
+  <a href="https://solscan.io/token/C6DsSjUZKUsxJ2XHdaHdCmQ4Gb3VbzAvTa6fUEHx7p7R"><img src="https://ppkkerzezm55fsduwodjs5o3n4njgwgkrcysk7qvw33iw7ebwuwa.arweave.net/e9SiRyTLO9LIdLOGmXXbbxqTWMqIsSV-Fbb2i3yBtSw?ext=png" alt="N00b #2187"></a>
+  <a href="https://solscan.io/token/CcU3jWGxMZFxsunZH6WZqgQMYs4uHiVaQvpa2jgCuYSq"><img src="https://3tblzsckwf3khlsc4oyeryku5gkzqjx36qzyljnnnpaythekatxq.arweave.net/3MK8yEqxdqOuQuOwSOFU6ZWYJvv0M4WlrWvBiZyKBO8?ext=png" alt="N00b #4848"></a>
+  <a href="https://solscan.io/token/4dVcDEg35WdeVHjSwiGY6knMxAimSgnvbFUeis5Cs3Uc"><img src="https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/386.png" alt="Mongomons #386"></a>
+  <a href="https://solscan.io/token/5KtfYANpQ6jvhxbaqqK1WyywQTfzeTQVfxeTRzCbf13A"><img src="https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/4743.png" alt="Mongomons #4743"></a>
+  <!--  <a href="enlace-a-la-imagen-5"><img src="ruta-a-la-imagen-5" alt="Nombre del NFT 5"></a> -->
 </p>
 
 <!-- NFTs que holdeo -->
