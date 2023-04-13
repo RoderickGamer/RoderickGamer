@@ -1,57 +1,83 @@
-## Hi there 👋
+<!-- Banner principal -->
+<h1 align="center">¡Hola! Soy Roderick 👋</h1>
+<!-- <h3 align="center">[tu cargo actual] en [tu empresa actual]</h3> -->
 
-- 🌱 I'm currently learning about Data Analyst. I have already learned SQL, Power BI, Excel and Analytics. Next on my path is GitHub, Python, R, and whatever the job requires. 
+<!-- Redes sociales -->
+<p align="center">
+  <a href="[enlace a tu perfil de Twitter]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="[enlace a tu perfil de Instagram]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="[enlace a tu perfil de MyAnimeList]"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
+  <a href="[enlace a tu perfil de LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[enlace a tu perfil de TikTok]"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  <a href="[enlace a tu perfil de Twitch]"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="[enlace a tu perfil de Discord]"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="[enlace a tu perfil de Facebook]"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="mailto:[tu correo electrónico]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="[enlace a tu usuario de Telegram]"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
 
-- 📫 How to reach me:
-  - [Twitter](https://twitter.com/roderick_gamer1)
-  - [Instagram](https://www.instagram.com/roderick_gamer1/)
-  - [My Anime List](https://myanimelist.net/profile/roderick_gamer)
-  - [LinkedIn](https://www.linkedin.com/in/rodrigososa-andrade/)
-  - [TikTok](https://www.tiktok.com/@roderick_gamer)
-  - [Twitch](https://www.twitch.tv/roderick_gamer)
-                      
-# Mi CV
+<!-- Sobre mí -->
+<p align="justify">Soy [tu cargo actual] en [tu empresa actual], y me apasiona trabajar en el campo de [tus intereses profesionales]. Me gradué de [tu escuela] y desde entonces, he estado aprendiendo y trabajando en diferentes proyectos y desafíos para seguir mejorando mis habilidades y conocimientos en el área.</p>
 
-## Datos personales
-| Nombre completo | Correo electrónico | Teléfono |
-| --- | --- | --- |
-| Tu nombre completo | tu_correo_electronico@ejemplo.com | +XX-XXXX-XXXXX |
+<!-- Escuela -->
+<h2>Escuela 👨‍🎓</h2>
+<ul>
+  <li>Nombre de la Escuela: [Nombre de la escuela donde estudiaste]</li>
+  <li>Carrera: [Carrera que estudiaste]</li>
+  <li>Año de graduación: [Año en que te graduaste]</li>
+</ul>
 
-## Experiencia laboral
-### Nombre de la empresa
-| Cargo | Fecha de inicio - Fecha de fin |
-| --- | --- |
-| Tu cargo en la empresa | El período en el que trabajaste en la empresa |
-| Descripción | Una breve descripción de tus responsabilidades y logros en la empresa |
+<!-- Cargo actual -->
+<h2>Cargo actual</h2>
+<p>[Tu cargo actual] en [tu empresa actual]</p>
 
-### Nombre de la empresa
-| Cargo | Fecha de inicio - Fecha de fin |
-| --- | --- |
-| Tu cargo en la empresa | El período en el que trabajaste en la empresa |
-| Descripción | Una breve descripción de tus responsabilidades y logros en la empresa |
+<!-- Intereses profesionales -->
+<h2>Intereses profesionales</h2>
+<ul>
+  <li>Interés 1</li>
+  <li>Interés 2</li>
+  <li>Interés 3</li>
+</ul>
 
-## Formación académica
-### Nombre de la institución educativa
-| Título obtenido | Fecha de inicio - Fecha de fin |
-| --- | --- |
-| El título que obtuviste en la institución educativa | El período en el que estuviste en la institución educativa |
+<!-- Certificaciones y cursos -->
+<h2>Certificaciones y cursos</h2>
+<ul>
+  <li><a href="[enlace al certificado 1]">Nombre del curso 1</a></li>
+  <li><a href="[enlace al certificado 2]">Nombre del curso 2</a></li>
+  <li><a href="[enlace al certificado 3]">Nombre del curso 3</a></li>
+  <li><a href="[enlace al certificado 4]">Nombre del curso 4</a></li>
+  <li><a href="[enlace al certificado 5]">Nombre del curso 5</a></li>
+</ul>
+<!-- NFTs que holdeo -->
+<h2 align="center">Mis NFTs 🔒</h2>
+<ul>
+  <li>Nombre del NFT 1</li>
+  <li>Nombre del NFT 2</li>
+  <li>Nombre del NFT 3</li>
+  <li>Nombre del NFT 4</li>
+  <li>Nombre del NFT 5</li>
+</ul>
+<!-- Carteras de criptomonedas -->
+<h2 align="center">Carteras de criptomonedas 💰</h2>
+<p align="center">A continuación, encontrarás mis direcciones públicas para recibir donaciones en diferentes redes:</p>
+<!-- Ethereum -->
+<h3 align="center">Ethereum</h3>
+<p align="center">0x1234567890123456789012345678901234567890</p>
+<!-- Binance Smart Chain -->
+<h3 align="center">Binance Smart Chain</h3>
+<p align="center">0x1234567890123456789012345678901234567890</p>
+<!-- Polygon -->
+<h3 align="center">Polygon</h3>
+<p align="center">0x1234567890123456789012345678901234567890</p>
+<!-- Solana -->
+<h3 align="center">Solana</h3>
+<p align="center">[dirección de tu cartera en Solana]</p>
+<!-- Cardano -->
+<h3 align="center">Cardano</h3>
+<p align="center">[dirección de tu cartera en Cardano]</p>
 
-### Nombre de la institución educativa
-| Título obtenido | Fecha de inicio - Fecha de fin |
-| --- | --- |
-| El título que obtuviste en la institución educativa | El período en el que estuviste en la institución educativa |
+<!-- Agradecimiento -->
+<p align="center">Gracias por visitar mi perfil de Github. ¡Que tengas un gran día! 🚀</p>
 
-
-
-<!--
-**RoderickGamer/RoderickGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Banner final -->
+<p align="center"><img src="[enlace a una imagen de tu elección]" alt="banner"></p>
