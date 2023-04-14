@@ -42,7 +42,15 @@
 </ul>
 
 <!-- Certificaciones y cursos -->
-<h2><img src="https://static.platzi.com/cdn-cgi/image/width=96,quality=75,format=auto/media/learningpath/badges/40c01657-3810-4c20-b8a5-fb313d622313.jpg" width="25-"/> <a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_">Fundamentos de Data</a></h2>
+<h2>Cursos y certificaciones</h2>
+
+<p><a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_"><img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="25"> Fundamentos de data</a></p>
+<p><a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_"><img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="25"> Fundamentos de data</a></p>
+
+  <li><a href="https://platzi.com/p/roderick_gamer/ruta/8263-fundamentos-data/diploma/detalle/"><img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="30"> Fundamentos de Data</a></li>
+  <li><a href="https://platzi.com/p/roderick_gamer/ruta/8263-fundamentos-data/diploma/detalle/"><img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="30"> Fundamentos de Data</a></li>
+  
+<h3><img src="https://static.platzi.com/cdn-cgi/image/width=96,quality=75,format=auto/media/learningpath/badges/40c01657-3810-4c20-b8a5-fb313d622313.jpg" width="25-"/> <a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_">Fundamentos de Data</a></h3>
 <p><a href="https://platzi.com/p/roderick_gamer/ruta/8263-fundamentos-data/diploma/detalle/">Certificado</a></p>
 
 <h2><img src="[enlace a la imagen del icono del curso]"/> <a href="[enlace a la pagina del curso]">Nombre del curso 2</a></h2>
