@@ -42,39 +42,63 @@
 </ul>
 
 <!-- Certificaciones y cursos -->
-<h2>Cursos y certificaciones</h2>
+<h2 align="center">Cursos y certificaciones</h2>
 
-<p><a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_"><img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="25"> <a href="https://platzi.com/p/roderick_gamer/ruta/8263-fundamentos-data/diploma/detalle/">Fundamentos de data</a></p>
+<p>
+  <a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+  <i>04/04/23</i> <a href="https://platzi.com/p/roderick_gamer/ruta/8263-fundamentos-data/diploma/detalle/">Fundamentos de data</a>
+</p>
+<p>
+  <a href="https://platzi.com/ruta/pensamiento-logico-data/?school=_escuela_escuela-datos_">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+  <i>09/04/23</i> <a href="https://platzi.com/p/roderick_gamer/ruta/8860-pensamiento-logico-data/diploma/detalle/">Pensamiento lógico</a>
+</p>
+<p>
+  <a href="https://platzi.com/ruta/fundamentos-blockchain/?school=_escuela_escuela-blockchain_">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+  <i>30/03/23</i> <a href="https://platzi.com/p/roderick_gamer/ruta/8297-fundamentos-blockchain/diploma/detalle/">Fundamentos de Bitcoin, Blockchain y Criptomonedas</a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/learning/power-bi-para-principiantes-analisis-de-datos/power-bi-limpiar-transformar-modelar-y-visualizar-datos?autoplay=true">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png" alt="LinkedId Learning" width="73">
+  </a>
+  <i>25/03/23</i> <a href="">Power BI para principiantes: Análisis de datos</a>
+</p>
+<p>
+  <a href="https://www.udemy.com/course/curso-completo-de-bases-de-datos-de-0-a-avanzado/">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="55">
+  </a>
+  <i>17/03/23</i> <a href="https://www.udemy.com/certificate/UC-74513fdd-662b-40a2-82b8-7b2a41f92026/">SQL - Curso completo de Bases de Datos - de 0 a Avanzado</a>
+</p>
+
+<p>
+  <a href="https://platzi.com/cursos/excel-avanzado-macros/">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+  <i>20/03/23</i> <a href="https://platzi.com/p/roderick_gamer/curso/4294-excel-avanzado-macros/diploma/detalle/">Curso de Excel Avanzado con Macros</a>
+</p>
+
+<p>
+  <a href="[Link-de-la-escuela]">
+    <img src="[Link-del-icono]" alt="Escuela" width="18">
+  </a>
+  <i>dd/mm/aa</i> <a href="[Link-del-certificado]">Nombre del curso</a>
+</p>
+
+<p>
+  <a href="[Link-de-la-escuela]">
+    <img src="[Link-del-icono]" alt="Escuela" width="18">
+  </a>
+  <i>dd/mm/aa</i> <a href="[Link-del-certificado]">Nombre del curso</a>
+</p>
 
 
-<p><a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_"><img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="25"> Fundamentos de data</a></p>
-<p><a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_"><img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="25"> Fundamentos de data</a></p>
 
-  <li><a href="https://platzi.com/p/roderick_gamer/ruta/8263-fundamentos-data/diploma/detalle/"><img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="30"> Fundamentos de Data</a></li>
-  <li><a href="https://platzi.com/p/roderick_gamer/ruta/8263-fundamentos-data/diploma/detalle/"><img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="30"> Fundamentos de Data</a></li>
   
-<h3><img src="https://static.platzi.com/cdn-cgi/image/width=96,quality=75,format=auto/media/learningpath/badges/40c01657-3810-4c20-b8a5-fb313d622313.jpg" width="25-"/> <a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_">Fundamentos de Data</a></h3>
-<p><a href="https://platzi.com/p/roderick_gamer/ruta/8263-fundamentos-data/diploma/detalle/">Certificado</a></p>
-
-<h2><img src="[enlace a la imagen del icono del curso]"/> <a href="[enlace a la pagina del curso]">Nombre del curso 2</a></h2>
-<p><a href="[enlace al certificado 2]">Certificado</a></p>
-<h2><img src="[enlace a la imagen del icono del curso]"/> <a href="[enlace a la pagina del curso]">Nombre del curso 3</a></h2>
-<p><a href="[enlace al certificado 3]">Certificado</a></p>
-<h2><img src="[enlace a la imagen del icono del curso]"/> <a href="[enlace a la pagina del curso]">Nombre del curso 4</a></h2>
-<p><a href="[enlace al certificado 4]">Certificado</a></p>
-<h2><img src="[enlace a la imagen del icono del curso]"/> <a href="[enlace a la pagina del curso]">Nombre del curso 5</a></h2>
-<p><a href="[enlace al certificado 5]">Certificado</a></p>
-
-<!-- Certificaciones y cursos -->
-<h2>Cursos y certificaciones</h2>
-<ul>
-  <li><a href="[enlace al certificado 1]">Nombre del curso 1</a></li>
-  <li><a href="[enlace al certificado 2]">Nombre del curso 2</a></li>
-  <li><a href="[enlace al certificado 3]">Nombre del curso 3</a></li>
-  <li><a href="[enlace al certificado 4]">Nombre del curso 4</a></li>
-  <li><a href="[enlace al certificado 5]">Nombre del curso 5</a></li>
-</ul>
-
 <!-- NFTs que holdeo -->
 <h2 align="center">Mis NFTs 🔒</h2>
 <h3 align="center">Collection: Ratz Club</h3>
