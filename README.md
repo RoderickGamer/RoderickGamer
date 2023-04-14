@@ -41,65 +41,116 @@
   <li>Interés 3</li>
 </ul>
 
+
 <!-- Certificaciones y cursos -->
 <h2 align="center">Cursos y certificaciones</h2>
 
-<p>
-  <a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_">
-    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+<!-- Iconos plataformas -->
+<!-- https://static.platzi.com/media/platzi-isotipo@2x.png width="18" -->
+<!-- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png width="73" -->
+<!-- https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg width="60" -->
+
+<!--Plataforma - Nombre del curso-->
+<!--<p align="center">
+  <i>dd/mm/aa</i>
+  <a href="[Link-de-la-escuela]">
+    <img src="[Link-del-icono]" alt="Plataforma" width="18">
   </a>
-  <i>04/04/23</i> <a href="https://platzi.com/p/roderick_gamer/ruta/8263-fundamentos-data/diploma/detalle/">Fundamentos de data</a>
+ <a href="[Link-del-certificado]">Nombre del curso</a>
+</p>-->
+
+<!--Udemy - Curso Power BI – Análisis de Datos y Business Intelligence-->
+<p align="center">
+  <i>Cursando</i>
+  <a href="https://www.udemy.com/course/power-bi-analisis-datos-business-intelligence/">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="18">
+  </a>
+ <a href="https://www.udemy.com/course/power-bi-analisis-datos-business-intelligence/">Curso Power BI – Análisis de Datos y Business Intelligence</a>
 </p>
-<p>
+
+<!--Udemy - Python TOTAL - Programador Avanzado en 16 días-->
+<p align="center">
+  <i>Cursando</i>
+  <a href="https://www.udemy.com/course/python-total/">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="60">
+  </a>
+ <a href="https://www.udemy.com/course/python-total/">Python TOTAL - Programador Avanzado en 16 días</a>
+</p>
+
+<!--LinkedId Learning - Python esencial-->
+<p align="center">
+  <i>Cursando</i>
+  <a href="https://www.linkedin.com/learning/python-esencial-15349768/que-son-las-condiciones-y-los-ciclos?autoplay=true]">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png" alt="Plataforma" width="73">
+  </a>
+ <a href="https://www.linkedin.com/learning/python-esencial-15349768/que-son-las-condiciones-y-los-ciclos?autoplay=true">Python esencial</a>
+</p>
+
+<!--LinkedId Learning - Fundamentos profesionales del análisis de datos, por Microsoft y LinkedIn-->
+<p align="center">
+  <i>09/04/23</i>
+  <a href="https://www.linkedin.com/learning/paths/fundamentos-profesionales-del-analisis-de-datos-por-microsoft-y-linkedin">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png" alt="LinkedId Learning" width="73">
+  </a>
+ <a href="https://www.linkedin.com/learning/certificates/c8db1b64e980a32c64dc2690723833e8bb5a5523042e94c93cd232995bab350d">Fundamentos profesionales del análisis de datos, por Microsoft y LinkedIn</a>
+</p>
+
+<!--Platzi - Pensamiento lógico-->
+<p align="center">
+  <i>09/04/23</i> 
   <a href="https://platzi.com/ruta/pensamiento-logico-data/?school=_escuela_escuela-datos_">
     <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
   </a>
-  <i>09/04/23</i> <a href="https://platzi.com/p/roderick_gamer/ruta/8860-pensamiento-logico-data/diploma/detalle/">Pensamiento lógico</a>
+  <a href="https://platzi.com/p/roderick_gamer/ruta/8860-pensamiento-logico-data/diploma/detalle/">Pensamiento lógico</a>
 </p>
-<p>
+
+<!--Platzi - Fundamentos de data-->
+<p align="center">
+  <i>04/04/23</i> 
+  <a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+  <a href="https://platzi.com/p/roderick_gamer/ruta/8263-fundamentos-data/diploma/detalle/">Fundamentos de data</a>
+</p>
+
+<!--Platzi - Fundamentos de Bitcoin, Blockchain y Criptomonedas-->
+<p align="center">
+  <i>30/03/23</i>
   <a href="https://platzi.com/ruta/fundamentos-blockchain/?school=_escuela_escuela-blockchain_">
     <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
   </a>
-  <i>30/03/23</i> <a href="https://platzi.com/p/roderick_gamer/ruta/8297-fundamentos-blockchain/diploma/detalle/">Fundamentos de Bitcoin, Blockchain y Criptomonedas</a>
+ <a href="https://platzi.com/p/roderick_gamer/ruta/8297-fundamentos-blockchain/diploma/detalle/">Fundamentos de Bitcoin, Blockchain y Criptomonedas</a>
 </p>
-<p>
+
+<!--LinkedId Learning - Power BI para principiantes: Análisis de datos-->
+<p align="center">
+  <i>25/03/23</i>
   <a href="https://www.linkedin.com/learning/power-bi-para-principiantes-analisis-de-datos/power-bi-limpiar-transformar-modelar-y-visualizar-datos?autoplay=true">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png" alt="LinkedId Learning" width="73">
   </a>
-  <i>25/03/23</i> <a href="">Power BI para principiantes: Análisis de datos</a>
-</p>
-<p>
-  <a href="https://www.udemy.com/course/curso-completo-de-bases-de-datos-de-0-a-avanzado/">
-    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="55">
-  </a>
-  <i>17/03/23</i> <a href="https://www.udemy.com/certificate/UC-74513fdd-662b-40a2-82b8-7b2a41f92026/">SQL - Curso completo de Bases de Datos - de 0 a Avanzado</a>
+ <a href="https://www.linkedin.com/learning/certificates/a513bba6f15469aac36f87047b33d44773d0ddeece23f4549921bdfb702acae5">Power BI para principiantes: Análisis de datos</a>
 </p>
 
-<p>
+<!--Platzi - Curso de Excel Avanzado con Macros-->
+<p align="center">
+  <i>20/03/23</i>
   <a href="https://platzi.com/cursos/excel-avanzado-macros/">
     <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
   </a>
-  <i>20/03/23</i> <a href="https://platzi.com/p/roderick_gamer/curso/4294-excel-avanzado-macros/diploma/detalle/">Curso de Excel Avanzado con Macros</a>
+ <a href="https://platzi.com/p/roderick_gamer/curso/4294-excel-avanzado-macros/diploma/detalle/">Curso de Excel Avanzado con Macros</a>
 </p>
 
-<p>
-  <a href="[Link-de-la-escuela]">
-    <img src="[Link-del-icono]" alt="Escuela" width="18">
+<!--Udemy - SQL - Curso completo de Bases de Datos - de 0 a Avanzado-->
+<p align="center">
+  <i>17/03/23</i>
+  <a href="https://www.udemy.com/course/curso-completo-de-bases-de-datos-de-0-a-avanzado/">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="60">
   </a>
-  <i>dd/mm/aa</i> <a href="[Link-del-certificado]">Nombre del curso</a>
-</p>
-
-<p>
-  <a href="[Link-de-la-escuela]">
-    <img src="[Link-del-icono]" alt="Escuela" width="18">
-  </a>
-  <i>dd/mm/aa</i> <a href="[Link-del-certificado]">Nombre del curso</a>
+ <a href="https://www.udemy.com/certificate/UC-74513fdd-662b-40a2-82b8-7b2a41f92026/">SQL - Curso completo de Bases de Datos - de 0 a Avanzado</a>
 </p>
 
 
-
-  
-<!-- NFTs que holdeo -->
+<!--     NFTs que holdeo     -->
 <h2 align="center">Mis NFTs 🔒</h2>
 <h3 align="center">Collection: Ratz Club</h3>
 <p align="center">
