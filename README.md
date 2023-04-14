@@ -53,7 +53,7 @@
 <!-- Iconos plataformas -->
 <!-- https://static.platzi.com/media/platzi-isotipo@2x.png width="18" -->
 <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png width="73" -->
-<!-- https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg width="60" -->
+<!-- https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg width="55" -->
 
 <!--Plataforma - Nombre del curso-->
 <!--<p align="center">
@@ -68,7 +68,7 @@
 <p align="center">
   <i>Cursando</i>
   <a href="https://www.udemy.com/course/power-bi-analisis-datos-business-intelligence/">
-    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="18">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg" alt="Udemy" width="55">
   </a>
  <a href="https://www.udemy.com/course/power-bi-analisis-datos-business-intelligence/">Curso Power BI – Análisis de Datos y Business Intelligence</a>
 </p>
@@ -77,7 +77,7 @@
 <p align="center">
   <i>Cursando</i>
   <a href="https://www.udemy.com/course/python-total/">
-    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="60">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg" alt="Udemy" width="60">
   </a>
  <a href="https://www.udemy.com/course/python-total/">Python TOTAL - Programador Avanzado en 16 días</a>
 </p>
@@ -149,7 +149,7 @@
 <p align="center">
   <i>17/03/23</i>
   <a href="https://www.udemy.com/course/curso-completo-de-bases-de-datos-de-0-a-avanzado/">
-    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="60">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg" alt="Udemy" width="60">
   </a>
  <a href="https://www.udemy.com/certificate/UC-74513fdd-662b-40a2-82b8-7b2a41f92026/">SQL - Curso completo de Bases de Datos - de 0 a Avanzado</a>
 </p>
