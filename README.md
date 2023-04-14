@@ -44,6 +44,9 @@
 <!-- Certificaciones y cursos -->
 <h2>Cursos y certificaciones</h2>
 
+<p><a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_"><img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="25"> <a href="https://platzi.com/p/roderick_gamer/ruta/8263-fundamentos-data/diploma/detalle/">Fundamentos de data</a></p>
+
+
 <p><a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_"><img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="25"> Fundamentos de data</a></p>
 <p><a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_"><img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="25"> Fundamentos de data</a></p>
 
