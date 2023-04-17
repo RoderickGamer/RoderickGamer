@@ -91,6 +91,15 @@
  <a href="https://www.linkedin.com/learning/python-esencial-15349768/que-son-las-condiciones-y-los-ciclos?autoplay=true">Python esencial</a>
 </p>
 
+<!--Platzi - Curso de Principios de Visualización de Datos para Business Intelligence -->
+<p align="center">
+  <i>16/04/23</i>
+  <a href="https://platzi.com/cursos/visualizacion-datos/">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+ <a href="https://platzi.com/p/roderick_gamer/curso/2195-visualizacion-datos/diploma/detalle/">Curso de Principios de Visualización de Datos para Business Intelligence</a>
+</p>
+
 <!--LinkedId Learning - Fundamentos profesionales del análisis de datos, por Microsoft y LinkedIn-->
 <p align="center">
   <i>09/04/23</i>
