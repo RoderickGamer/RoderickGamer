@@ -32,7 +32,6 @@
   Año de graduación: 2022
 </p>
 
-
 <!-- Cargo actual -->
 <!--<h2>Cargo actual</h2>
 <p>[Tu cargo actual] en [tu empresa actual]</p>-->
@@ -64,6 +63,8 @@
  <a href="[Link-del-certificado]">Nombre del curso</a>
 </p>-->
 
+   <h3 align="center">Cursando</h3>
+
 <!--Udemy - Curso Power BI – Análisis de Datos y Business Intelligence-->
 <p align="center">
   <i>Cursando</i>
@@ -91,14 +92,10 @@
  <a href="https://www.linkedin.com/learning/python-esencial-15349768/que-son-las-condiciones-y-los-ciclos?autoplay=true">Python esencial</a>
 </p>
 
-<!--Platzi - Curso de Principios de Visualización de Datos para Business Intelligence -->
-<p align="center">
-  <i>16/04/23</i>
-  <a href="https://platzi.com/cursos/visualizacion-datos/">
-    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
-  </a>
- <a href="https://platzi.com/p/roderick_gamer/curso/2195-visualizacion-datos/diploma/detalle/">Curso de Principios de Visualización de Datos para Business Intelligence</a>
-</p>
+<br>
+</br>
+
+   <h3 align="center">LinkedIn Learning</h3>
 
 <!--LinkedId Learning - Fundamentos profesionales del análisis de datos, por Microsoft y LinkedIn-->
 <p align="center">
@@ -107,33 +104,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png" alt="LinkedId Learning" width="73">
   </a>
  <a href="https://www.linkedin.com/learning/certificates/c8db1b64e980a32c64dc2690723833e8bb5a5523042e94c93cd232995bab350d">Fundamentos profesionales del análisis de datos, por Microsoft y LinkedIn</a>
-</p>
-
-<!--Platzi - Pensamiento lógico-->
-<p align="center">
-  <i>09/04/23</i> 
-  <a href="https://platzi.com/ruta/pensamiento-logico-data/?school=_escuela_escuela-datos_">
-    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
-  </a>
-  <a href="https://platzi.com/p/roderick_gamer/ruta/8860-pensamiento-logico-data/diploma/detalle/">Pensamiento lógico</a>
-</p>
-
-<!--Platzi - Fundamentos de data-->
-<p align="center">
-  <i>04/04/23</i> 
-  <a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_">
-    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
-  </a>
-  <a href="https://platzi.com/p/roderick_gamer/ruta/8263-fundamentos-data/diploma/detalle/">Fundamentos de data</a>
-</p>
-
-<!--Platzi - Fundamentos de Bitcoin, Blockchain y Criptomonedas-->
-<p align="center">
-  <i>30/03/23</i>
-  <a href="https://platzi.com/ruta/fundamentos-blockchain/?school=_escuela_escuela-blockchain_">
-    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
-  </a>
- <a href="https://platzi.com/p/roderick_gamer/ruta/8297-fundamentos-blockchain/diploma/detalle/">Fundamentos de Bitcoin, Blockchain y Criptomonedas</a>
 </p>
 
 <!--LinkedId Learning - Power BI para principiantes: Análisis de datos-->
@@ -145,6 +115,62 @@
  <a href="https://www.linkedin.com/learning/certificates/a513bba6f15469aac36f87047b33d44773d0ddeece23f4549921bdfb702acae5">Power BI para principiantes: Análisis de datos</a>
 </p>
 
+<br>
+</br>
+
+   <h3 align="center">Platzi</h3>
+
+   <h5 align="center">Escuela de Data Science e Inteligencia Artificial</h5>
+
+<!--Platzi - Curso de Principios de Visualización de Datos para Business Intelligence -->
+<p align="center">
+  <i>16/04/23</i>
+  <a href="https://platzi.com/cursos/visualizacion-datos/">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+ <a href="https://platzi.com/p/roderick_gamer/curso/2195-visualizacion-datos/diploma/detalle/">Curso de Principios de Visualización de Datos para Business Intelligence</a>
+</p>
+
+<!--Platzi - Ruta Pensamiento lógico-->
+<p align="center">
+  <i>09/04/23</i> 
+  <a href="https://platzi.com/ruta/pensamiento-logico-data/?school=_escuela_escuela-datos_">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+  <a href="https://platzi.com/p/roderick_gamer/ruta/8860-pensamiento-logico-data/diploma/detalle/">Ruta Pensamiento lógico</a>
+</p>
+
+<!--Platzi - Ruta Fundamentos de data-->
+<p align="center">
+  <i>04/04/23</i> 
+  <a href="https://platzi.com/ruta/fundamentos-data/?school=_escuela_escuela-datos_">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+  <a href="https://platzi.com/p/roderick_gamer/ruta/8263-fundamentos-data/diploma/detalle/">Ruta Fundamentos de data</a>
+</p>
+
+   <h5 align="center">Escuela de Blockchain y Criptomonedas</h5>
+
+<!--Platzi - Ruta Crea tus primeros NFT-->
+<p align="center">
+  <i>10/04/23</i> 
+  <a href="https://platzi.com/ruta/creacion-nft/?school=_escuela_escuela-blockchain_">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+  <a href="https://platzi.com/p/roderick_gamer/ruta/8298-creacion-nft/diploma/detalle/">Ruta Crea tus primeros NFT</a>
+</p>
+
+<!--Platzi - Ruta Fundamentos de Bitcoin, Blockchain y Criptomonedas-->
+<p align="center">
+  <i>30/03/23</i>
+  <a href="https://platzi.com/ruta/fundamentos-blockchain/?school=_escuela_escuela-blockchain_">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+ <a href="https://platzi.com/p/roderick_gamer/ruta/8297-fundamentos-blockchain/diploma/detalle/">Ruta Fundamentos de Bitcoin, Blockchain y Criptomonedas</a>
+</p>
+
+   <h5 align="center">Otros</h5>
+
 <!--Platzi - Curso de Excel Avanzado con Macros-->
 <p align="center">
   <i>20/03/23</i>
@@ -154,6 +180,11 @@
  <a href="https://platzi.com/p/roderick_gamer/curso/4294-excel-avanzado-macros/diploma/detalle/">Curso de Excel Avanzado con Macros</a>
 </p>
 
+<br>
+</br>
+
+   <h3 align="center">Udemy</h3>
+
 <!--Udemy - SQL - Curso completo de Bases de Datos - de 0 a Avanzado-->
 <p align="center">
   <i>17/03/23</i>
@@ -162,7 +193,6 @@
   </a>
  <a href="https://www.udemy.com/certificate/UC-74513fdd-662b-40a2-82b8-7b2a41f92026/">SQL - Curso completo de Bases de Datos - de 0 a Avanzado</a>
 </p>
-
 
 <!--     NFTs que holdeo     -->
 
@@ -206,7 +236,6 @@
   <a href="https://solscan.io/token/32CQ9zSKsGCigSENgaarVmchQzLxZHAaLRwsQnqUjQMf">
     <img src="https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/1703.png" alt="Mongomons #1703" width="150"></a>
 </p>
-
 
 <!-- Carteras de criptomonedas 
 <h2 align="center">Carteras de criptomonedas 💰</h2>
