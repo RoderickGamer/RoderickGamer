@@ -83,19 +83,19 @@
  <a href="https://www.udemy.com/course/python-total/">Python TOTAL - Programador Avanzado en 16 días</a>
 </p>
 
-<!--LinkedId Learning - Python esencial-->
-<p align="center">
-  <i>Cursando</i>
-  <a href="https://www.linkedin.com/learning/python-esencial-15349768/que-son-las-condiciones-y-los-ciclos?autoplay=true]">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png" alt="Plataforma" width="73">
-  </a>
- <a href="https://www.linkedin.com/learning/python-esencial-15349768/que-son-las-condiciones-y-los-ciclos?autoplay=true">Python esencial</a>
-</p>
-
 <br>
 </br>
 
    <h3 align="center">LinkedIn Learning</h3>
+
+<!--LinkedId Learning - Python esencial-->
+<p align="center">
+  <i>18/04/23</i>
+  <a href="https://www.linkedin.com/learning/python-esencial-15349768/que-son-las-condiciones-y-los-ciclos?autoplay=true]">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png" alt="Plataforma" width="73">
+  </a>
+ <a href="https://www.linkedin.com/learning/certificates/1cc5bf07ec87710aab4a33420cec915a6ff10da2e9b4cd37fa13ee6570ec2005">Python esencial</a>
+</p>
 
 <!--LinkedId Learning - Fundamentos profesionales del análisis de datos, por Microsoft y LinkedIn-->
 <p align="center">
