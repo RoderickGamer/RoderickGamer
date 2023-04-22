@@ -65,22 +65,44 @@
 
    <h3 align="center">Cursando</h3>
 
-<!--Udemy - Curso Power BI – Análisis de Datos y Business Intelligence-->
-<p align="center">
-  <i>Cursando</i>
-  <a href="https://www.udemy.com/course/power-bi-analisis-datos-business-intelligence/">
-    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg" alt="Udemy" width="55">
-  </a>
- <a href="https://www.udemy.com/course/power-bi-analisis-datos-business-intelligence/">Curso Power BI – Análisis de Datos y Business Intelligence</a>
-</p>
-
 <!--Udemy - Python TOTAL - Programador Avanzado en 16 días-->
 <p align="center">
-  <i>Cursando</i>
+  <i>Cursando </i>
   <a href="https://www.udemy.com/course/python-total/">
     <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg" alt="Udemy" width="60">
   </a>
  <a href="https://www.udemy.com/course/python-total/">Python TOTAL - Programador Avanzado en 16 días</a>
+</p>
+
+<!--Platzi - Platzi English Academy-->
+<p align="center">
+  <i>Cursando </i>
+  <a href="https://platzi.com/escuela/escuela-ingles/">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Plataforma" width="18">
+  </a>
+ <a href="https://platzi.com/escuela/escuela-ingles/">Platzi English Academy</a>
+</p>
+
+   <h5 align="center">Escuela de Data Science e Inteligencia Artificial</h5>
+   
+<!--Platzi - Ruta Data Analyst-->
+<p align="center">
+  <i>Cursando </i>
+  <a href="https://platzi.com/ruta/data-analyst/?school=_escuela_escuela-datos_">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Plataforma" width="18">
+  </a>
+ <a href="https://platzi.com/ruta/data-analyst/?school=_escuela_escuela-datos_">Ruta Data Analyst</a>
+</p>
+
+   <h5 align="center">Escuela de Blockchain y Criptomonedas</h5>
+   
+<!--Platzi - Ruta Finanzas para el Futuro-->
+<p align="center">
+  <i>Cursando </i>
+  <a href="https://platzi.com/ruta/finanzas-descentralizadas/?school=_escuela_escuela-blockchain_">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Plataforma" width="18">
+  </a>
+ <a href="https://platzi.com/ruta/finanzas-descentralizadas/?school=_escuela_escuela-blockchain_">Ruta Finanzas para el Futuro</a>
 </p>
 
 <br>
@@ -184,6 +206,15 @@
 </br>
 
    <h3 align="center">Udemy</h3>
+
+<!--Udemy - Curso Power BI – Análisis de Datos y Business Intelligence-->
+<p align="center">
+  <i>22/04/23</i>
+  <a href="https://www.udemy.com/course/power-bi-analisis-datos-business-intelligence/">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg" alt="Udemy" width="55">
+  </a>
+ <a href="http://ude.my/UC-51b224de-2e87-4509-96db-f13b25cdceb2">Curso Power BI – Análisis de Datos y Business Intelligence</a>
+</p>
 
 <!--Udemy - SQL - Curso completo de Bases de Datos - de 0 a Avanzado-->
 <p align="center">
