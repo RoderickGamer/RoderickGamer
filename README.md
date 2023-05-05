@@ -94,6 +94,15 @@
  <a href="https://platzi.com/ruta/data-analyst/?school=_escuela_escuela-datos_">Ruta Data Analyst</a>
 </p>
 
+<!--Platzi - Curso de PostgreSQL-->
+<p align="center">
+  <i>Cursando </i>
+  <a href="https://platzi.com/cursos/postgresql/">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Plataforma" width="18">
+  </a>
+ <a href="https://platzi.com/cursos/postgresql/">Curso de PostgreSQL</a>
+</p>
+
    <h5 align="center">Escuela de Blockchain y Criptomonedas</h5>
    
 <!--Platzi - Ruta Finanzas para el Futuro-->
@@ -104,6 +113,7 @@
   </a>
  <a href="https://platzi.com/ruta/finanzas-descentralizadas/?school=_escuela_escuela-blockchain_">Ruta Finanzas para el Futuro</a>
 </p>
+
 
 <br>
 </br>
@@ -144,13 +154,40 @@
 
    <h5 align="center">Escuela de Data Science e Inteligencia Artificial</h5>
 
-<!--Platzi - Curso de Principios de Visualización de Datos para Business Intelligence -->
+<!--Platzi - Ruta Data Analyst: Curso de Fundamentos de Bases de Datos -->
 <p align="center">
-  <i>16/04/23</i>
+  <i>28/04/23</i>
+  <a href="https://platzi.com/cursos/bd/">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+ <a href="https://platzi.com/p/roderick_gamer/curso/1566-course/diploma/detalle/">Ruta Data Analyst: Curso de Fundamentos de Bases de Datos</a>
+</p>
+
+<!--Platzi - Ruta Data Analyst: Curso de Excel Avanzado para Análisis de Datos -->
+<p align="center">
+  <i>03/05/23</i>
+  <a href="https://platzi.com/cursos/excel-avanzado-datos/">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+ <a href="https://platzi.com/p/roderick_gamer/curso/4822-course/diploma/detalle/">Ruta Data Analyst: Curso de Excel Avanzado para Análisis de Datos</a>
+</p>
+
+<!--Platzi - Ruta Data Analyst: Curso de Business Intelligence: Utilidad y Áreas de Oportunidad -->
+<p align="center">
+  <i>21/04/23</i>
+  <a href="https://platzi.com/cursos/business-intelligence/">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+ <a href="https://platzi.com/p/roderick_gamer/curso/2359-course/diploma/detalle/">Ruta Data Analyst: Curso de Business Intelligence: Utilidad y Áreas de Oportunidad</a>
+</p>
+
+<!--Platzi - Ruta Data Analyst: Curso de Principios de Visualización de Datos para Business Intelligence -->
+<p align="center">
+  <i>17/04/23</i>
   <a href="https://platzi.com/cursos/visualizacion-datos/">
     <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
   </a>
- <a href="https://platzi.com/p/roderick_gamer/curso/2195-visualizacion-datos/diploma/detalle/">Curso de Principios de Visualización de Datos para Business Intelligence</a>
+ <a href="https://platzi.com/p/roderick_gamer/curso/2195-visualizacion-datos/diploma/detalle/">Ruta Data Analyst: Curso de Principios de Visualización de Datos para Business Intelligence</a>
 </p>
 
 <!--Platzi - Ruta Pensamiento lógico-->
@@ -191,15 +228,63 @@
  <a href="https://platzi.com/p/roderick_gamer/ruta/8297-fundamentos-blockchain/diploma/detalle/">Ruta Fundamentos de Bitcoin, Blockchain y Criptomonedas</a>
 </p>
 
-   <h5 align="center">Otros</h5>
+   <h5 align="center">Domina Excel</h5>
+
+<!--Platzi - Curso de Excel Financiero para Realizar Cálculos y Pronósticos de Una Empresa-->
+<p align="center">
+  <i>03/04/23</i>
+  <a href="https://platzi.com/cursos/excel-financiero/">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+ <a href="https://platzi.com/p/roderick_gamer/curso/1757-course/diploma/detalle/">Curso de Excel Financiero para Realizar Cálculos y Pronósticos de Una Empresa</a>
+</p>
 
 <!--Platzi - Curso de Excel Avanzado con Macros-->
 <p align="center">
-  <i>20/03/23</i>
+  <i>21/03/23</i>
   <a href="https://platzi.com/cursos/excel-avanzado-macros/">
     <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
   </a>
- <a href="https://platzi.com/p/roderick_gamer/curso/4294-excel-avanzado-macros/diploma/detalle/">Curso de Excel Avanzado con Macros</a>
+ <a href="https://platzi.com/p/roderick_gamer/curso/4294-course/diploma/detalle/">Curso de Excel Avanzado con Macros</a>
+</p>
+
+<!--Platzi - Curso de Excel Intermedio para Analistas con Tableros y Fórmulas-->
+<p align="center">
+  <i>13/03/23</i>
+  <a href="https://platzi.com/cursos/excel-intermedio/">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+ <a href="https://platzi.com/p/roderick_gamer/curso/4037-course/diploma/detalle/">Curso de Excel Intermedio para Analistas con Tableros y Fórmulas</a>
+</p>
+
+<!--Platzi - Curso de Excel Básico-->
+<p align="center">
+  <i>10/03/23</i>
+  <a href="https://platzi.com/cursos/excel-basico/">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+ <a href="https://platzi.com/p/roderick_gamer/curso/4036-course/diploma/detalle/">Curso de Excel Básico</a>
+</p>
+
+<!--Platzi - Introducción a Excel para Principiantes-->
+<p align="center">
+  <i>09/03/23</i>
+  <a href="https://platzi.com/cursos/excel-intro/">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+ <a href="https://platzi.com/p/roderick_gamer/curso/3639-course/diploma/detalle/">Introducción a Excel para Principiantes</a>
+</p>
+
+
+   <h5 align="center">Escuela de Finanzas e Inversiones</h5>
+
+<!--Platzi - Ruta - Finanzas Personales-->
+<p align="center">
+  <i>02/05/23</i>
+  <a href="https://platzi.com/ruta/finanzas-personales/?school=_escuela_finanzas_">
+    <img src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi" width="18">
+  </a>
+ <a href="https://platzi.com/p/roderick_gamer/ruta/6807-finanzas-personales/diploma/detalle/">Ruta Finanzas Personales</a>
 </p>
 
 <br>
