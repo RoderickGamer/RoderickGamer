@@ -47,17 +47,17 @@
 <br>
 
 
-  <h2 align="center">Acerca de mi formación, cursos y certificaciones
+  <h3 align="center">Acerca de mi formación, cursos y certificaciones
     <a href="Formación, cursos y certificaciones.md">Ver más</a>
-  </h2>
+  </h3>
 
 
 <br>
 
 
-  <h2 align="center">Acerca de Mis NFTs 🔒
-    <a href="Formación, cursos y certificaciones.md">Ver más</a>
-  </h2>
+  <h3 align="center">Acerca de Mis NFTs 🔒
+    <a href="FNFT Holding.md">Ver más</a>
+  </h3>
 
 
 <br>
