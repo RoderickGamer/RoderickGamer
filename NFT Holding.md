@@ -7,7 +7,14 @@
 </p>-->
 
 <h2 align="center">Mis NFTs 🔒</h2>
+
+
+<br>
+
+
 <h3 align="center">Collection: Ratz Club</h3>
+
+
 <p align="center">
   <a href="https://solscan.io/token/3c9DoSZJjNbstiKeDGw9fVLBssHb3YNysMW8mNXkUcCF">
     <img src="https://su7owogz24np2lfghznk3kx6mvozoc5ilt5377sosdmfygvdohpq.arweave.net/lT7rONnXGv0spj5arar-ZV2XC6hc-7_-TpDYXBqjcd8?ext=png" alt="Ratz Club #1452" width="150"></a>
@@ -15,7 +22,11 @@
   <img src="https://gs4at22pdv5klq2pqyjitthsbpfvtmabidv7oant2shteo4lgzgq.arweave.net/NLgJ608deqXDT4YSiczyC8tZsAFA6_cBs9SPMjuLNk0?ext=png" alt="Ratz Club #314" width="150"></a>
 </p>
 
+<br>
+
 <h3 align="center">Collection: Ratz N00bs</h3>
+
+
 <p align="center">
   <a href="https://solscan.io/token/C6DsSjUZKUsxJ2XHdaHdCmQ4Gb3VbzAvTa6fUEHx7p7R">
     <img src="https://ppkkerzezm55fsduwodjs5o3n4njgwgkrcysk7qvw33iw7ebwuwa.arweave.net/e9SiRyTLO9LIdLOGmXXbbxqTWMqIsSV-Fbb2i3yBtSw?ext=png" alt="N00b #2187" width="150"></a>
@@ -29,7 +40,11 @@
     <img src="https://yzj3iu6ccxmydgdq5glxr23rq3wqvmvebtfd2rt5i6o6b2bd44yq.arweave.net/xlO0U8IV2YGYcOmXeOtxhu0KsqQMyj1GfUed4Ogj5zE?ext=png" alt="N00b #1352" width="150"></a>
 </p>
 
+<br>
+
 <h3 align="center">Collection: MONGO</h3>
+
+
 <p align="center">
   <a href="https://solscan.io/token/4dVcDEg35WdeVHjSwiGY6knMxAimSgnvbFUeis5Cs3Uc">
     <img src="https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/386.png" alt="Mongomons #386" width="150"></a>
@@ -40,3 +55,11 @@
   <a href="https://solscan.io/token/32CQ9zSKsGCigSENgaarVmchQzLxZHAaLRwsQnqUjQMf">
     <img src="https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/1703.png" alt="Mongomons #1703" width="150"></a>
 </p>
+
+
+<br>
+
+
+<p align="center">🚀 ¡Si holdeas, comparteme tu colección, me encataría verla! 🚀</p>
+<p align="center">🚀 ¡Que tengas un gran día! 🚀</p>
+<h3 align="center">Gracias por ver mi perfil UwU</h3>
