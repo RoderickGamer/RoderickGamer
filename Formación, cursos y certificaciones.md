@@ -1,24 +1,18 @@
 <!-- Universidad -->
-<h1 align="center">Escuela 👨‍🎓</h1>
-
-
-<br>
-</br>
-
-
-<p align="center">
-  Universidad Autónoma Metropolitana Plantel Xochimilco<br>
-  Licenciatura en Economía<br>
-  2018 - 2022<br>
-</p>
-
+<h1>Escuela 👨‍🎓</h1>
 
 <br>
-</br>
+Universidad Autónoma Metropolitana Plantel Xochimilco<br>
+Licenciatura en Economía<br>
+2018 - 2022<br>
+
+<br>
+
 
 
 <!-- Certificaciones y cursos -->
-<h1 align="center">Cursos y certificaciones</h1>
+<h1>Cursos y certificaciones</h1>
+
 
 
 <!-- Iconos plataformas -->
@@ -34,7 +28,6 @@
   </a>
  <a href="[Link-del-certificado]">Nombre del curso</a>
 </p>-->
-
 
 <br>
 
@@ -100,13 +93,15 @@
 
    <h2 align="center">Finalizados</h2>
 
-
+ <details>
 <!--LinkedIn Learning-->
+ <summary>
 <p align="center">
   <a href="https://www.linkedin.com/learning/">
     <img src="https://hr.oregonstate.edu/sites/hr.oregonstate.edu/files/large-use_rgb_white_learning_rgb.png" alt="Udemy" width="200">
   </a>
 </p>
+</summary>
 
 <!--LinkedId Learning - Python esencial-->
 <p align="center">
@@ -128,7 +123,7 @@
 
 
 <br>
-</br>
+</details>
 
 
 <!--Platzi-->
@@ -139,7 +134,8 @@
 </p>
 
 
-   <h3 align="center">Escuela de Data Science e Inteligencia Artificial</h3>
+<details>
+   <summary><h3 align="center">Escuela de Data Science e Inteligencia Artificial</h3></summary>
    
    <br>
    
@@ -260,7 +256,8 @@
 </p>
 
 <br>
-
+</details>
+  
 
    <h3 align="center">Escuela de Blockchain y Criptomonedas</h3>
 
