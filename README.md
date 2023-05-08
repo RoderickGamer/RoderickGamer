@@ -1,5 +1,4 @@
 <!-- Banner principal -->
-<hr>
 <h1 align="center">¡Wuenas! Soy Roderick 👋</h1>
 
 <!-- <h3 align="center">[tu cargo actual] en [tu empresa actual]</h3> -->
