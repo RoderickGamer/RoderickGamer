@@ -54,6 +54,22 @@
 <br>
 
 
+  <h3 align="center">Acerca de mi Portafolio SQL
+    <a href="">Ver más</a>
+  </h3>
+
+
+<br>
+
+
+  <h3 align="center">Acerca de mi Portafolio Python
+    <a href="">Ver más</a>
+  </h3>
+
+
+<br>
+
+
   <h3 align="center">Acerca de Mis NFTs 🔒
     <a href="FNFT Holding.md">Ver más</a>
   </h3>
