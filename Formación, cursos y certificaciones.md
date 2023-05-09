@@ -50,11 +50,10 @@ Licenciatura en Economía<br>
 
 </details>
 
-<br>
-
 
 <!-- Finalizados -->
-<h2>Finalizados</h2>
+<details>
+<summary><h2>Finalizados</h2></summary>
 
 
 <!--LinkedIn Learning-->
@@ -257,6 +256,7 @@ _22/04/23_ [Curso Power BI – Análisis de Datos y Business Intelligence](http:
 _17/03/23_ [SQL - Curso completo de Bases de Datos - de 0 a Avanzado](https://www.udemy.com/certificate/UC-74513fdd-662b-40a2-82b8-7b2a41f92026)
 </details>
 
+</details>
 <!-- Iconos plataformas -->
 <!-- https://static.platzi.com/media/platzi-isotipo@2x.png width="18" -->
 <!-- https://static.platzi.com/static/images/footer/logo.png width="115" -->
