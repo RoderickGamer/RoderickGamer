@@ -42,30 +42,31 @@
   <li>Interés 3</li>
 </ul>-->
 
-<!--<div style="display: flex; justify-content: center;">
+<h3 align="center">Herramientas</h3>
+<div style="display: flex; justify-content: center;">
   <table align="center">
-    <tr>
-      <th>Columna 1</th>
-      <th>Columna 2</th>
-      <th>Columna 3</th>
+    <tr align="center">
+      <th><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></th>
+      <th><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></th>
+      <th><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"></th>
     </tr>
-    <tr>
-      <td>Elemento 1</td>
-      <td>Elemento 2</td>
-      <td>Elemento 3</td>
+    <tr align="center">
+      <td><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI"></td>
+      <td><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"></td>
+      <td><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></td>
     </tr>
-    <tr>
-      <td>Elemento 4</td>
-      <td>Elemento 5</td>
-      <td>Elemento 6</td>
+    <tr align="center">
+      <td><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"></td>
+      <td><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"></td>
+      <td><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="CloudFlare"></td>
     </tr>
-    <tr>
+   <!-- <tr align="center">
       <td>Elemento 7</td>
       <td>Elemento 8</td>
       <td>Elemento 9</td>
-    </tr>
+    </tr>-->
   </table>
-</div>-->
+</div>
 
 
 <br>
