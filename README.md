@@ -42,11 +42,36 @@
   <li>Interés 3</li>
 </ul>-->
 
+<!--<div style="display: flex; justify-content: center;">
+  <table align="center">
+    <tr>
+      <th>Columna 1</th>
+      <th>Columna 2</th>
+      <th>Columna 3</th>
+    </tr>
+    <tr>
+      <td>Elemento 1</td>
+      <td>Elemento 2</td>
+      <td>Elemento 3</td>
+    </tr>
+    <tr>
+      <td>Elemento 4</td>
+      <td>Elemento 5</td>
+      <td>Elemento 6</td>
+    </tr>
+    <tr>
+      <td>Elemento 7</td>
+      <td>Elemento 8</td>
+      <td>Elemento 9</td>
+    </tr>
+  </table>
+</div>-->
+
 
 <br>
 
 
-  <h3 align="center">Acerca de mi formación, cursos y certificaciones
+  <h3 align="center">Acerca de mi formación, cursos y certificaciones ->
     <a href="Formación, cursos y certificaciones.md">Ver más</a>
   </h3>
 
@@ -54,7 +79,7 @@
 <br>
 
 
-  <h3 align="center">Acerca de mi Portafolio SQL
+  <h3 align="center">Acerca de mi Portafolio SQL ->
     <a href="">Ver más</a>
   </h3>
 
@@ -62,15 +87,15 @@
 <br>
 
 
-  <h3 align="center">Acerca de mi Portafolio Python
-    <a href="">Ver más</a>
+  <h3 align="center">Acerca de mi Portafolio Python ->
+    <a href="https://github.com/RoderickGamer/PythonPortfolio">Ver más</a>
   </h3>
 
 
 <br>
 
 
-  <h3 align="center">Acerca de Mis NFTs 🔒
+  <h3 align="center">Acerca de Mis NFTs 🔒 ->
     <a href="FNFT Holding.md">Ver más</a>
   </h3>
 
