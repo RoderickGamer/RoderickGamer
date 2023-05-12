@@ -81,6 +81,8 @@ _25/03/23_ [Power BI para principiantes: Análisis de datos](https://www.linkedi
 </a>
 </h5></summary>
 
+_11/05/23_ [Curso de PostgreSQL](https://platzi.com/p/roderick_gamer/curso/1480-postgresql/diploma/detalle/)
+  
 _28/04/23_ [Curso de Fundamentos de Bases de Datos](https://platzi.com/p/roderick_gamer/curso/1566-course/diploma/detalle)
 
 _03/05/23_ [Curso de Excel Avanzado para Análisis de Datos](https://platzi.com/p/roderick_gamer/curso/4822-course/diploma/detalle/)
