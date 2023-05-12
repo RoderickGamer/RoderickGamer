@@ -35,14 +35,17 @@ Licenciatura en Economía<br>
 <h4>Platzi English Academy</h4>
 
 [Inglés Intermedio Alto B2](https://platzi.com/ruta/intermediate-core2/?school=_escuela_ingles_)
+  
 
 <h4>Escuela de Data Science e Inteligencia Artificial</h4>
 
 [Ruta: Data Analyst](https://platzi.com/ruta/data-analyst/?school=_escuela_escuela-datos_)
+  
 
 <h4>Escuela de Blockchain y Criptomonedas</h4>
 
 [Ruta: Finanzas para el Futuro](https://platzi.com/ruta/finanzas-descentralizadas/?school=_escuela_escuela-blockchain_)
+  
 
 <h4>Escuela de Finanzas e Inversiones</h4>
    
