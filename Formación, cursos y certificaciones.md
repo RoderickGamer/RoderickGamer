@@ -185,6 +185,97 @@ _16/02/23_ [Curso de Inglés Intermedio B1: Descripción de Eventos y Preferenci
   
 _15/02/23_ [Curso de Inglés Intermedio B1: Expresiones de Tiempo y Cantidad](https://platzi.com/p/roderick_gamer/curso/4989-course/diploma/detalle/)
 </details>
+
+<details>
+<summary><h5>Inglés Básico Complementario ->
+<a href="https://platzi.com/p/roderick_gamer/ruta/8313-beginner-complementary/diploma/detalle/">
+<i>Certificado</i>
+</a>
+</h5></summary>
+
+_08/02/23_ [Curso de Inglés Básico para el Trabajo](https://platzi.com/p/roderick_gamer/curso/5252-course/diploma/detalle/)
+
+_07/02/23_ [Curso de Inglés para Compras](https://platzi.com/p/roderick_gamer/curso/2216-course/diploma/detalle/)
+
+_07/02/23_ [Curso de Inglés para Networking](https://platzi.com/p/roderick_gamer/curso/2526-course/diploma/detalle/)
+
+_07/02/23_ [Curso Básico de Escritura en Inglés](https://platzi.com/p/roderick_gamer/curso/2256-course/diploma/detalle/)
+
+_07/02/23_ [Curso Básico de Pronunciación en Inglés](https://platzi.com/p/roderick_gamer/curso/3153-course/diploma/detalle/)
+</details>
+
+<details>
+<summary><h5>Inglés Básico A2 ->
+<a href="https://platzi.com/ruta/beginner-core2/">
+<i>¿Certificado?</i>
+</a>
+</h5></summary>
+
+_14/05/23_ [Taller de Inglés Básico para Viajes de Turismo](https://platzi.com/p/roderick_gamer/curso/7131-course/diploma/detalle/)
+
+_14/05/23_ [Curso de Inglés Básico A2: Infinitivos y Presente Continuo](https://platzi.com/p/roderick_gamer/curso/7265-course/diploma/detalle/)
+
+_06/02/23_ [Curso de Inglés Básico A2: Descripciones y Comparaciones](https://platzi.com/p/roderick_gamer/curso/2196-course/diploma/detalle/)
+
+_06/02/23_ [Curso de Inglés Básico A2: Experiencias Pasadas e Intenciones Futuras](https://platzi.com/p/roderick_gamer/curso/2655-course/diploma/detalle/)
+
+_06/02/23_ [Taller de Inglés Básico sobre las Partes del Cuerpo](https://platzi.com/p/roderick_gamer/curso/3574-course/diploma/detalle/)
+
+_06/02/23_ [Curso de Inglés Básico A2: Cuantificadores y Superlativos](https://platzi.com/p/roderick_gamer/curso/2504-course/diploma/detalle/)
+
+_06/02/23_ [Curso de Inglés Básico A2: Cantidades y Gerundios](https://platzi.com/p/roderick_gamer/curso/2413-course/diploma/detalle/)
+
+_06/02/23_ [Taller de Inglés Básico para Vocabulario de Cocina](https://platzi.com/p/roderick_gamer/curso/3157-course/diploma/detalle/)
+
+_06/02/23_ [Curso de Inglés Básico A2: Adverbios y Sustantivos](https://platzi.com/p/roderick_gamer/curso/2422-course/diploma/detalle/)
+
+_06/02/23_ [Curso de Inglés Básico A2: Artículos y Verbos Modales](https://platzi.com/p/roderick_gamer/curso/2396-course/diploma/detalle/)
+
+_06/02/23_ [Taller de Inglés Básico sobre las Partes de la Casa](https://platzi.com/p/roderick_gamer/curso/3043-course/diploma/detalle/)
+
+_06/02/23_ [Curso de Inglés Básico A2: Preguntas y Respuestas Comunes](https://platzi.com/p/roderick_gamer/curso/4988-course/diploma/detalle/)
+</details>
+
+
+<details>
+<summary><h5>Inglés Básico A1 ->
+<a href="https://platzi.com/p/roderick_gamer/ruta/8309-beginner-core/diploma/detalle/">
+<i>Certificado</i>
+</a>
+</h5></summary>
+
+_06/02/23_ [Curso de Inglés Básico A1: Fechas, Horas y Expresiones Simples](https://platzi.com/p/roderick_gamer/curso/2395-course/diploma/detalle/)
+
+_06/02/23_ [Taller de Inglés Básico sobre los Miembros de la Familia](https://platzi.com/p/roderick_gamer/curso/3230-course/diploma/detalle/)
+
+_05/02/23_ [Curso de Inglés Básico A1: Presente Simple y Vocabulario Común](https://platzi.com/p/roderick_gamer/curso/2393-course/diploma/detalle/)
+
+_05/02/23_ [Taller de Inglés Básico sobre Elementos y Expresiones de Trabajo](https://platzi.com/p/roderick_gamer/curso/3996-course/diploma/detalle/)
+
+_05/02/23_ [Curso de Inglés Básico A1 para Principiantes](https://platzi.com/p/roderick_gamer/curso/3093-course/diploma/detalle/)
+
+_05/02/23_ [Taller de Inglés Básico para Descripciones Personales](https://platzi.com/p/roderick_gamer/curso/2005-course/diploma/detalle/)
+
+_05/02/23_ [Curso de Inglés Básico A1: Conversaciones Cortas y Habituales](https://platzi.com/p/roderick_gamer/curso/1945-course/diploma/detalle/)
+
+_06/02/23_ [Curso Gratis de Estrategias para Aprender Inglés en Línea](https://platzi.com/p/roderick_gamer/curso/2633-course/diploma/detalle/)
+</details>
+  
+<details>
+<summary><h5>Practica de Listening en Inglés ->
+<a href="https://platzi.com/ruta/practica-listening/">
+<i>¿Certificado?</i>
+</a>
+</h5></summary>
+
+_11/02/23_ [Audio Curso de Inglés para Viajes](https://platzi.com/p/roderick_gamer/curso/2175-course/diploma/detalle/)
+
+_09/02/23_ [Audio Historia en Inglés: Atrapados en la Tecnología](https://platzi.com/p/roderick_gamer/curso/4660-course/diploma/detalle/)
+
+_08/02/23_ [Audio Historia en Inglés: Misterios sin Resolver](https://platzi.com/p/roderick_gamer/curso/2535-course/diploma/detalle/)
+
+_07/02/23_ [Audio Historia en Inglés: Una Aventura en la Ciudad](https://platzi.com/p/roderick_gamer/curso/2361-course/diploma/detalle/)
+</details>
   
 <br>
  
