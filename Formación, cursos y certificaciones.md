@@ -206,6 +206,8 @@ _09/03/23_ [Introducción a Excel para Principiantes](https://platzi.com/p/roder
 <i>Cursando</i>
 </a>
 </h5></summary>
+  
+_14/05/23_ [Curso para Identificar y Vencer el Síndrome del Impostor](https://platzi.com/p/roderick_gamer/curso/2668-sindrome-impostor/diploma/detalle/)
 
 _25/03/23_ [Curso de Optimización del Perfil de LinkedIn](https://platzi.com/p/roderick_gamer/curso/2499-course/diploma/detalle/)
 
