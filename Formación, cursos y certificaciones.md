@@ -135,6 +135,49 @@ _08/03/23_ [Cómo y Por Qué Aprender Data Science e Inteligencia Artificial](ht
 
 <br>
 
+<h3>Platzi English Academy</h3>
+   
+<details>
+<summary><h5>Inglés Intermedio B1 ->
+<a href="https://platzi.com/ruta/intermediate-core/?school=_escuela_ingles_">
+<i>Certificado</i>
+</a>
+</h5></summary>
+
+_14/05/23_ [Curso de Inglés Intermedio B1: Práctica Gramatical y Condicionales](https://platzi.com/p/roderick_gamer/curso/2698-course/diploma/detalle/)
+
+_03/05/23_ [Curso de Inglés Intermedio B1: Preguntas Negativas y Recomendaciones](https://platzi.com/p/roderick_gamer/curso/2580-course/diploma/detalle/)
+
+_29/04/23_ [Taller de Inglés Intermedio para Consultas Médicas](https://platzi.com/p/roderick_gamer/curso/5154-course/diploma/detalle/)
+
+_23/04/23_ [Curso de Inglés Intermedio B1: Palabras Interrogativas y Propósitos](https://platzi.com/p/roderick_gamer/curso/2505-course/diploma/detalle/)
+  
+_23/04/23_ [Curso de Inglés Intermedio B1: Comparativos y Planes Futuros](https://platzi.com/p/roderick_gamer/curso/2567-course/diploma/detalle/)
+  
+_23/04/23_ [Curso de Inglés Intermedio B1: Voz Pasiva y Consejos](https://platzi.com/p/roderick_gamer/curso/2520-course/diploma/detalle/)
+
+_23/04/23_ [Curso de Inglés Intermedio B1: Solicitudes y Pronombres Reflexivos](https://platzi.com/p/roderick_gamer/curso/2519-course/diploma/detalle/)
+
+_23/04/23_ [Curso de Inglés Intermedio B1: Conjunciones y Uso de Prefijos](https://platzi.com/p/roderick_gamer/curso/2414-course/diploma/detalle/)
+
+_23/04/23_ [Curso de Inglés Intermedio B1: Primer Condicional y Pasado Continuo](https://platzi.com/p/roderick_gamer/curso/5349-course/diploma/detalle/)
+
+_23/04/23_ [Taller de Inglés Intermedio para Viajes de Negocios](https://platzi.com/p/roderick_gamer/curso/6934-course/diploma/detalle/)
+  
+_25/03/23_ [Curso de Inglés Intermedio B1: Presente Perfecto y Preposiciones](https://platzi.com/p/roderick_gamer/curso/2417-course/diploma/detalle/)
+  
+_17/03/23_ [Curso de Inglés Intermedio B1: Adjetivos y Preguntas Indirectas](https://platzi.com/p/roderick_gamer/curso/2464-course/diploma/detalle/)
+  
+_05/03/23_ [Curso de Inglés Intermedio B1: Pronombres y Cláusulas Relativas](https://platzi.com/p/roderick_gamer/curso/2418-course/diploma/detalle/)
+
+_16/02/23_ [Curso de Inglés Intermedio B1: Descripción de Eventos y Preferencias](https://platzi.com/p/roderick_gamer/curso/2391-course/diploma/detalle/)
+  
+_15/02/23_ [Curso de Inglés Intermedio B1: Expresiones de Tiempo y Cantidad](https://platzi.com/p/roderick_gamer/curso/4989-course/diploma/detalle/)
+</details>
+  
+<br>
+ 
+  
 <h3>Escuela de Blockchain y Criptomonedas</h3>
 
 <details>
