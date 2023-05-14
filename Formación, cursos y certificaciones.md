@@ -12,10 +12,13 @@ Licenciatura en Economía<br>
 <!-- Certificaciones y cursos -->
 <h1>Cursos y certificaciones</h1>
 
+
 <!-- Cursando -->
 <details>
   <summary><h2>Cursando</h2></summary>
-
+  
+---
+  
 <br>
 
 <!--Udemy-->
@@ -53,15 +56,18 @@ Licenciatura en Economía<br>
 
 </details>
 
+---
 
 <!-- Finalizados -->
 <details>
 <summary><h2>Finalizados</h2></summary>
-
+---
 
 <!--LinkedIn Learning-->
 <details>
 <summary><h3>LinkedIn Learning</h3></summary>
+  
+---
 
 _18/04/23_ [Python esencial](https://www.linkedin.com/learning/certificates/1cc5bf07ec87710aab4a33420cec915a6ff10da2e9b4cd37fa13ee6570ec2005)
 
@@ -70,10 +76,13 @@ _09/04/23_ [Fundamentos profesionales del análisis de datos, por Microsoft y Li
 _25/03/23_ [Power BI para principiantes: Análisis de datos](https://www.linkedin.com/learning/certificates/a513bba6f15469aac36f87047b33d44773d0ddeece23f4549921bdfb702acae5)
 </details>
 
+---
 
 <!--Platzi-->
 <details>
 <summary><h3>Platzi</h3></summary>
+  
+---
 
 <h3>Escuela de Data Science e Inteligencia Artificial</h3>
    
@@ -135,6 +144,7 @@ _08/03/23_ [Cómo y Por Qué Aprender Data Science e Inteligencia Artificial](ht
 
 <br>
 
+----
   
 <h3>Platzi English Academy</h3>
    
@@ -178,6 +188,7 @@ _15/02/23_ [Curso de Inglés Intermedio B1: Expresiones de Tiempo y Cantidad](ht
   
 <br>
  
+----
   
 <h3>Escuela de Blockchain y Criptomonedas</h3>
 
@@ -219,7 +230,8 @@ _17/03/23_ [Audiocurso de Historia de Bitcoin y Criptomonedas](https://platzi.co
 
 <br>
 
-
+----
+  
 <h3>Domina Excel</h3>
 
 <details>
@@ -242,6 +254,8 @@ _09/03/23_ [Introducción a Excel para Principiantes](https://platzi.com/p/roder
 
 <br>
 
+----
+  
 <h3>Escuela de Finanzas e Inversiones</h3>
 
 <details>
@@ -296,17 +310,23 @@ _20/02/23_ [Curso de Educación Financiera y Finanzas Personales](https://platzi
 _12/02/23_ [Curso de Introducción a Educación Financiera](https://platzi.com/p/roderick_gamer/curso/2166-course/diploma/detalle/)
 </details>
 </details>
+  
+---
 
 
 <!--Udemy-->
 <details>
 <summary><h3>Udemy</h3></summary>
+  
+---
 
 _22/04/23_ [Curso Power BI – Análisis de Datos y Business Intelligence](http://ude.my/UC-51b224de-2e87-4509-96db-f13b25cdceb2)
 
 _17/03/23_ [SQL - Curso completo de Bases de Datos - de 0 a Avanzado](https://www.udemy.com/certificate/UC-74513fdd-662b-40a2-82b8-7b2a41f92026)
 </details>
 
+---
+  
 </details>
 <!-- Iconos plataformas -->
 <!-- https://static.platzi.com/media/platzi-isotipo@2x.png width="18" -->
