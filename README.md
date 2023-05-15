@@ -84,7 +84,7 @@
 <!-- Acerca de mi Portafolio SQL -->
 <div align="center">
   <h3>Acerca de mi Portafolio SQL</h3>
-  <p><a href="">Ver más</a></p>
+  <p><a href="https://github.com/RoderickGamer/SQLPortfolio">Ver más</a></p>
 </div>
 
 
