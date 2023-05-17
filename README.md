@@ -95,10 +95,10 @@
 </div>
 
 
-<!-- Acerca de mi Portafolio Power BI -->
+<!-- Acerca de mi Portafolio Data Visualization -->
 <div align="center">
-  <h3>Acerca de mi Portafolio Power BI</h3>
-  <p><a href="https://github.com/RoderickGamer/PowerBIPortfolio">Ver más</a></p>
+  <h3>Acerca de mi Portafolio Data Visualization</h3>
+  <p><a href="https://github.com/RoderickGamer/DataVizPortfolio">Ver más</a></p>
 </div>
 
 
