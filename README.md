@@ -95,6 +95,13 @@
 </div>
 
 
+<!-- Acerca de mi Portafolio Power BI -->
+<div align="center">
+  <h3>Acerca de mi Portafolio Power BI</h3>
+  <p><a href="https://github.com/RoderickGamer/PowerBIPortfolio">Ver más</a></p>
+</div>
+
+
 <!-- Acerca de Mis NFTs -->
 <div align="center">
   <h3>Acerca de mis NFTs 🔒</h3>
