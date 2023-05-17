@@ -284,6 +284,32 @@ _07/02/23_ [Audio Historia en Inglés: Una Aventura en la Ciudad](https://platzi
 <h3>Escuela de Blockchain y Criptomonedas</h3>
 
 <details>
+<summary><h5>Ruta Finanzas para el Futuro ->
+<a href="https://platzi.com/ruta/finanzas-descentralizadas/">
+<i>Cursando</i>
+</a>
+</h5></summary>
+
+_16/05/23_ [Curso de Introducción a Finanzas Descentralizadas (DeFi)](https://platzi.com/p/roderick_gamer/curso/2885-defi-lemon/diploma/detalle/)
+
+_30/04/23_ [Curso de Stablecoins](https://platzi.com/p/roderick_gamer/curso/5285-course/diploma/detalle/)
+
+_27/04/23_ [Curso Sobre la Historia del Dinero](https://platzi.com/p/roderick_gamer/curso/5813-course/diploma/detalle/)
+
+_25/04/23_ [Curso de Binance: Exchange de Criptomonedas](https://platzi.com/p/roderick_gamer/curso/2696-course/diploma/detalle/)
+
+_23/04/23_ [Audiocurso de Gestión Emocional de Inversión en Criptomonedas](https://platzi.com/p/roderick_gamer/curso/2553-course/diploma/detalle/)
+
+_21/04/23_ [Cuadrante de Dinero de Bitcoin y Criptomonedas](https://platzi.com/p/roderick_gamer/curso/2693-course/diploma/detalle/)
+
+_13/04/23_ [Curso de Economía Digital: Bitcoin y Criptomonedas](https://platzi.com/p/roderick_gamer/curso/2452-course/diploma/detalle/)
+
+_30/03/23_ [Curso de Seguridad para Usuarios de Criptomonedas](https://platzi.com/p/roderick_gamer/curso/3227-course/diploma/detalle/)
+
+_29/03/23_ [Curso de Gestión de Criptoactivos](https://platzi.com/p/roderick_gamer/curso/2617-course/diploma/detalle/)
+</details>
+
+<details>
 <summary><h5>Ruta Crea tus primeros NFT ->
 <a href="https://platzi.com/p/roderick_gamer/ruta/8298-creacion-nft/diploma/detalle/">
 <i>Certificado</i>
