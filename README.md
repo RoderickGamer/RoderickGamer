@@ -76,35 +76,35 @@
 
 <!-- Acerca de mi formación, cursos y certificaciones -->
 <div align="center">
-  <h3>Acerca de mi formación, cursos y certificaciones</h3>
+  <h3>Formación, cursos y certificaciones</h3>
   <p><a href="Formación, cursos y certificaciones.md">Ver más</a></p>
 </div>
 
 
 <!-- Acerca de mi Portafolio SQL -->
 <div align="center">
-  <h3>Acerca de mi Portafolio SQL</h3>
+  <h3>Portafolio SQL</h3>
   <p><a href="https://github.com/RoderickGamer/SQLPortfolio">Ver más</a></p>
 </div>
 
 
 <!-- Acerca de mi Portafolio Python -->
 <div align="center">
-  <h3>Acerca de mi Portafolio Python</h3>
+  <h3>Portafolio Python</h3>
   <p><a href="https://github.com/RoderickGamer/PythonPortfolio">Ver más</a></p>
 </div>
 
 
 <!-- Acerca de mi Portafolio Data Visualization -->
 <div align="center">
-  <h3>Acerca de mi Portafolio Data Visualization</h3>
+  <h3>Portafolio Data Visualization</h3>
   <p><a href="https://github.com/RoderickGamer/DataVizPortfolio">Ver más</a></p>
 </div>
 
 
 <!-- Acerca de Mis NFTs -->
 <div align="center">
-  <h3>Acerca de mis NFTs 🔒</h3>
+  <h3>Mis NFTs 🔒</h3>
   <p><a href="FNFT Holding.md">Ver más</a></p>
 </div>
 
