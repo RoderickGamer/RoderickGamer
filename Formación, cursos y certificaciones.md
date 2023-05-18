@@ -206,8 +206,8 @@ _07/02/23_ [Curso Básico de Pronunciación en Inglés](https://platzi.com/p/rod
 
 <details>
 <summary><h5>Inglés Básico A2 ->
-<a href="https://platzi.com/ruta/beginner-core2/">
-<i>¿Certificado?</i>
+<a href="https://platzi.com/p/roderick_gamer/learning-path/12050-beginner-core2/diploma/detalle/">
+<i>Certificado</i>
 </a>
 </h5></summary>
 
