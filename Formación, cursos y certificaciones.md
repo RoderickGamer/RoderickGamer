@@ -147,7 +147,23 @@ _08/03/23_ [Cómo y Por Qué Aprender Data Science e Inteligencia Artificial](ht
 ----
   
 <h3>Platzi English Academy</h3>
-   
+
+<details>
+<summary><h5>Inglés Intermedio Alto B2 ->
+<a href="https://platzi.com/ruta/intermediate-core2/">
+<i>Cursando</i>
+</a>
+</h5></summary>
+
+
+
+
+
+
+
+_24/05/23_ [Curso de Inglés Intermedio Alto B2: Suposiciones e Instrucciones](https://platzi.com/p/roderick_gamer/curso/2423-oraciones-relativas/diploma/detalle/)
+</details>  
+
 <details>
 <summary><h5>Inglés Intermedio B1 ->
 <a href="https://platzi.com/p/roderick_gamer/learning-path/8310-intermediate-core/diploma/detalle/">
