@@ -308,6 +308,8 @@ _07/02/23_ [Audio Historia en Inglés: Una Aventura en la Ciudad](https://platzi
 </a>
 </h5></summary>
 
+_20/05/23_ [Minicurso de Introducción a la Investigación de Proyectos DeFi](https://platzi.com/p/roderick_gamer/curso/2695-defi-investigacion/diploma/detalle/)
+
 _16/05/23_ [Curso de Introducción a Finanzas Descentralizadas (DeFi)](https://platzi.com/p/roderick_gamer/curso/2885-defi-lemon/diploma/detalle/)
 
 _30/04/23_ [Curso de Stablecoins](https://platzi.com/p/roderick_gamer/curso/5285-course/diploma/detalle/)
