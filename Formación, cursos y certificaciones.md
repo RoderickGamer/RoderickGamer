@@ -23,7 +23,7 @@ Licenciatura en Economía<br>
 
 <!--Udemy-->
 <a href="https://www.udemy.com/">
-<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg" alt="Udemy" width="65">
+<img src="https://kodigo.org/wp-content/uploads/2023/03/udemy-logo-on-dark.png" alt="Udemy" width="65">
 </a>
 
 [Python TOTAL - Programador Avanzado en 16 días](https://www.udemy.com/course/python-total/)
@@ -471,7 +471,7 @@ _17/03/23_ [SQL - Curso completo de Bases de Datos - de 0 a Avanzado](https://ww
 <!-- https://static.platzi.com/media/platzi-isotipo@2x.png width="18" -->
 <!-- https://static.platzi.com/static/images/footer/logo.png width="115" -->
 <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png width="73" -->
-<!-- https://https://hr.oregonstate.edu/sites/hr.oregonstate.edu/files/large-use_rgb_white_learning_rgb.png width="200" -->
+<!-- https://hr.oregonstate.edu/sites/hr.oregonstate.edu/files/large-use_rgb_white_learning_rgb.png width="200" -->
 <!-- https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg width="55" -->
 
 <!--Plataforma - Nombre del curso-->
