@@ -93,6 +93,8 @@ _25/03/23_ [Power BI para principiantes: Análisis de datos](https://www.linkedi
 </a>
 </h5></summary>
 
+_22/05/23_ [Curso de Google Data Studio](https://platzi.com/p/roderick_gamer/curso/1838-data-studio/diploma/detalle/)
+
 _11/05/23_ [Curso de PostgreSQL](https://platzi.com/p/roderick_gamer/curso/1480-postgresql/diploma/detalle/)
   
 _28/04/23_ [Curso de Fundamentos de Bases de Datos](https://platzi.com/p/roderick_gamer/curso/1566-course/diploma/detalle)
@@ -397,7 +399,9 @@ _09/03/23_ [Introducción a Excel para Principiantes](https://platzi.com/p/roder
 <i>Cursando</i>
 </a>
 </h5></summary>
-  
+
+_18/05/23_ [Curso para Empezar a Buscar Trabajo en Tecnología](https://platzi.com/p/roderick_gamer/curso/5417-buscar-trabajo/diploma/detalle/)
+
 _14/05/23_ [Curso para Identificar y Vencer el Síndrome del Impostor](https://platzi.com/p/roderick_gamer/curso/2668-sindrome-impostor/diploma/detalle/)
 
 _25/03/23_ [Curso de Optimización del Perfil de LinkedIn](https://platzi.com/p/roderick_gamer/curso/2499-course/diploma/detalle/)
