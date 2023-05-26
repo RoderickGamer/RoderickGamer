@@ -377,6 +377,8 @@ _17/03/23_ [Audiocurso de Historia de Bitcoin y Criptomonedas](https://platzi.co
 <i>Certificado</i>
 </a>
 </h5></summary>
+  
+_25/05/23_ [Curso de Inventarios con Excel](https://platzi.com/p/roderick_gamer/curso/1919-inventarios/diploma/detalle/)
 
 _03/04/23_ [Curso de Excel Financiero para Realizar Cálculos y Pronósticos de Una Empresa](https://platzi.com/p/roderick_gamer/curso/1757-course/diploma/detalle)
 
