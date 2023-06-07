@@ -86,21 +86,21 @@
 <!-- Acerca de mi Portafolio SQL -->
 <div align="center">
   <h3>Portafolio SQL</h3>
-  <p><a href="https://github.com/RoderickGamer/SQLPortfolio">Ver más</a></p>
+  <p><a href="https://github.com/RoderickGamer/RoderickPortfolio/tree/main/SQLPortfolio">Ver más</a></p>
 </div>
 
 
 <!-- Acerca de mi Portafolio Python -->
 <div align="center">
   <h3>Portafolio Python</h3>
-  <p><a href="https://github.com/RoderickGamer/PythonPortfolio">Ver más</a></p>
+  <p><a href="https://github.com/RoderickGamer/RoderickPortfolio/tree/main/PythonPortfolio">Ver más</a></p>
 </div>
 
 
 <!-- Acerca de mi Portafolio Data Visualization -->
 <div align="center">
   <h3>Portafolio Data Visualization</h3>
-  <p><a href="https://github.com/RoderickGamer/DataVizPortfolio">Ver más</a></p>
+  <p><a href="https://github.com/RoderickGamer/RoderickPortfolio/tree/main/DataVizPortfolio">Ver más</a></p>
 </div>
 
 
