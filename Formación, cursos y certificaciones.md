@@ -161,7 +161,7 @@ _08/03/23_ [Cómo y Por Qué Aprender Data Science e Inteligencia Artificial](ht
 
 
 
-
+_08/06/23_ [Curso de Inglés Intermedio Alto B2: Comentarios y Opiniones](https://platzi.com/p/roderick_gamer/curso/2415-intenciones-comparaciones/diploma/detalle/)
 
 _24/05/23_ [Curso de Inglés Intermedio Alto B2: Suposiciones e Instrucciones](https://platzi.com/p/roderick_gamer/curso/2423-oraciones-relativas/diploma/detalle/)
 </details>  
