@@ -404,6 +404,12 @@ _09/03/23_ [Introducción a Excel para Principiantes](https://platzi.com/p/roder
 </a>
 </h5></summary>
 
+
+
+
+
+_10/06/23_ [Curso para Mejorar tu Perfil Profesional](https://platzi.com/p/roderick_gamer/curso/2230-perfil-profesional/diploma/detalle/)
+
 _18/05/23_ [Curso para Empezar a Buscar Trabajo en Tecnología](https://platzi.com/p/roderick_gamer/curso/5417-buscar-trabajo/diploma/detalle/)
 
 _14/05/23_ [Curso para Identificar y Vencer el Síndrome del Impostor](https://platzi.com/p/roderick_gamer/curso/2668-sindrome-impostor/diploma/detalle/)
