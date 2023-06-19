@@ -159,7 +159,7 @@ _08/03/23_ [Cómo y Por Qué Aprender Data Science e Inteligencia Artificial](ht
 
 
 
-
+_18/06/23_ [Curso de Inglés Intermedio Alto B2: Pasado Perfecto y Frases Adverbiales](https://platzi.com/p/roderick_gamer/curso/5118-pasado-perfecto-frases-adverbiales/diploma/detalle/)
 
 _08/06/23_ [Curso de Inglés Intermedio Alto B2: Comentarios y Opiniones](https://platzi.com/p/roderick_gamer/curso/2415-intenciones-comparaciones/diploma/detalle/)
 
